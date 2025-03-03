@@ -1,5 +1,5 @@
 # mmRAG
 a RAG system supporting mutimodal retrieval
 
-Input: a pic or description
+Input: a pic or description \
 Output: pics
